@@ -72,6 +72,11 @@ author_profile: true
         <div class="friend-name">ICUlizhi's Blog</div>
         <div class="friend-intro">上士闻道, 勤而行之</div>
       </a>
+      <a href="https://malanc43.blog" target="_blank">
+        <img src="../images/malanc43xd.jpg" alt="Malanc43's Blog" class="avatar" onerror="this.onerror=null;this.src='../images/default-avatar.jpg';">
+        <div class="friend-name">Malanc43's Blog</div>
+        <div class="friend-intro">无名小卒一枚</div>
+      </a>
     </div>
   </div>
 <br/><br/><br/>
