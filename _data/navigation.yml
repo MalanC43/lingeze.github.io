@@ -1,27 +1,27 @@
 # main links links
 main:
-  #- title: "Publications"
+  #- title: "主页"
   #  url: /publications/
 
-  #- title: "Talks"
+  #- title: "讨论？"
   #  url: /talks/    
 
-  #- title: "Teaching"
+  #- title: "不知道是啥1"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
+  #- title: "不知道是啥2"
   #  url: /portfolio/
         
-  #- title: "Blog Posts"
+  #- title: "归档"
   #  url: /year-archive/
     
-  #- title: "Guide"
+  #- title: "引导"
   #  url: /markdown/
 
-  - title: "Notes"
+  - title: "笔记"
     url: /Notes/
   
-  - title: "Repositories"
+  - title: "git库"
     url: /Repositories/
 
   - title: "Blogs"
