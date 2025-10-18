@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "-Pkuhub's site"
+locale                   : "zh-CN"
+title                    : "-Lingeze's site"
 title_separator          : "-"
-name                     : &name "xker "
-description              : &description "111"
+name                     : &name "Lingeze "
+description              : &description "test description"
 url                      : https://pkuhub-dev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pkuhub-dev/pkuhub-dev.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yourname"
-  avatar           : "white.png"
-  bio              : "Peking University"
-  location         : "China Beijing"
+  name             : "Malan_C"
+  avatar           : "https://s21.ax1x.com/2025/09/28/pVo9n9s.jpg"
+  bio              : "HNU"
+  location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
